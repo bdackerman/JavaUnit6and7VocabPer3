@@ -26,4 +26,4 @@ Unit 7
 4. the overloaded add method
 5. remove method
 6. key
-7. flag variable
+7. flag variable - A flag variable is usually a boolean (true/false) variable that is used to control (terminate) an indeterminate loop. 
